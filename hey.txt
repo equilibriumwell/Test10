@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-hey 
 
-Not much
-=======
 hey 
 What's up ?  
->>>>>>> a726f8fcb6bd1b43d80a9bf9125de2bff73dfce3
+
